@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/tw-1000", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tw-1000-pepper-jet-pfefferspray-tw-1000-5637196106.jpg":"\u002Fassets\u002Fimages\u002Ftw-1000-pepper-jet-pfefferspray-tw-1000-5637196106.webp"}}],fetch:{},mutations:void 0});

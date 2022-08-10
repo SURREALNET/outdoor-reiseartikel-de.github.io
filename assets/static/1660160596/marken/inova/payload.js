@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/inova", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/inova-squeeze-light-ii-taschenlampe-inova-5637278518.jpg":"\u002Fassets\u002Fimages\u002Finova-squeeze-light-ii-taschenlampe-inova-5637278518.webp"}}],fetch:{},mutations:void 0});

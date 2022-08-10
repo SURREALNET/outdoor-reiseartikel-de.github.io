@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vargo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vargo-ultimate-fire-starter-feuerstarter-vargo-5637956183.jpg":"\u002Fassets\u002Fimages\u002Fvargo-ultimate-fire-starter-feuerstarter-vargo-5637956183.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/lansky", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lansky-c-sharp-keramikschaerfer-messerschaerfer-lansky-5637791106.jpg":"\u002Fassets\u002Fimages\u002Flansky-c-sharp-keramikschaerfer-messerschaerfer-lansky-5637791106.webp"}}],fetch:{},mutations:void 0});

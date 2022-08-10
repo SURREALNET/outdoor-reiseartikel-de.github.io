@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/tear-solution", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tear-solution-pvc-solution-tape-set-reparaturbedarf-tear-solution-5637840834.jpg":"\u002Fassets\u002Fimages\u002Ftear-solution-pvc-solution-tape-set-reparaturbedarf-tear-solution-5637840834.webp"}}],fetch:{},mutations:void 0});

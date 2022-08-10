@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/rubytec", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rubytec-kao-taschenlampe-rubytec-5637226664.jpg":"\u002Fassets\u002Fimages\u002Frubytec-kao-taschenlampe-rubytec-5637226664.webp"}}],fetch:{},mutations:void 0});

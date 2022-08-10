@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/prym", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/prym-messing-oesen-zeltzubehoer-prym-5637245116.jpg":"\u002Fassets\u002Fimages\u002Fprym-messing-oesen-zeltzubehoer-prym-5637245116.webp"}}],fetch:{},mutations:void 0});

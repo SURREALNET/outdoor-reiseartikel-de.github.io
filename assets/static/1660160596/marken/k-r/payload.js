@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/k-r", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/k-r-travel-mag-led-k-r-5637351857.jpg":"\u002Fassets\u002Fimages\u002Fk-r-travel-mag-led-k-r-5637351857.webp"}}],fetch:{},mutations:void 0});

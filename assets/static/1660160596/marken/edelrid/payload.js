@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/edelrid", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/edelrid-corazon-schluesselanhaenger-edelrid-5637264582.jpg":"\u002Fassets\u002Fimages\u002Fedelrid-corazon-schluesselanhaenger-edelrid-5637264582.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/hansaplast", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hansaplast-laermstop-ohrstoepsel-hansaplast-5637285416.jpg":"\u002Fassets\u002Fimages\u002Fhansaplast-laermstop-ohrstoepsel-hansaplast-5637285416.webp"}}],fetch:{},mutations:void 0});

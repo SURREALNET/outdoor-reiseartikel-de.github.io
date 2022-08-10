@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/gore", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gore-tenacious-tape-gore-tex-reparaturschwarz-zeltzubehoer-gore-5637276686.jpg":"\u002Fassets\u002Fimages\u002Fgore-tenacious-tape-gore-tex-reparaturschwarz-zeltzubehoer-gore-5637276686.webp"}}],fetch:{},mutations:void 0});

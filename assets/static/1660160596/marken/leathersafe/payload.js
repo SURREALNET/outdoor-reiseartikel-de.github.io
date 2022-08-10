@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/leathersafe", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/leathersafe-roll-play-packgammon-reisespiel-leathersafe-5637212327.jpg":"\u002Fassets\u002Fimages\u002Fleathersafe-roll-play-packgammon-reisespiel-leathersafe-5637212327.webp"}}],fetch:{},mutations:void 0});
