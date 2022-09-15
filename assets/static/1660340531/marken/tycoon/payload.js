@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/tycoon", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tycoon-retro-turbo-chrom-polished-feuerzeug-tycoon-5637196114.jpg":"\u002Fassets\u002Fimages\u002Ftycoon-retro-turbo-chrom-polished-feuerzeug-tycoon-5637196114.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/nitecore", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nitecore-tiki-schluesselanhaenger-nitecore-5637859619.jpg":"\u002Fassets\u002Fimages\u002Fnitecore-tiki-schluesselanhaenger-nitecore-5637859619.webp"}}],fetch:{},mutations:void 0});

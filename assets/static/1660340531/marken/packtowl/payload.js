@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/packtowl", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/packtowl-personal-hand-winding-path-reisehandtuch-packtowl-5637829203.jpg":"\u002Fassets\u002Fimages\u002Fpacktowl-personal-hand-winding-path-reisehandtuch-packtowl-5637829203.webp"}}],fetch:{},mutations:void 0});

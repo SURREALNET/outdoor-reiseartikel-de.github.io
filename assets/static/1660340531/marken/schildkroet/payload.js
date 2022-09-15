@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/schildkroet", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/schildkroet-hula-hoop-reifen-schildkroet-5637938841.jpg":"\u002Fassets\u002Fimages\u002Fschildkroet-hula-hoop-reifen-schildkroet-5637938841.webp"}}],fetch:{},mutations:void 0});

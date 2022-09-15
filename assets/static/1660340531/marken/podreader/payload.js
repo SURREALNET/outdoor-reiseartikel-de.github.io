@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/podreader", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/podreader-lesebrille-etui-podreader-5637245370.jpg":"\u002Fassets\u002Fimages\u002Fpodreader-lesebrille-etui-podreader-5637245370.webp"}}],fetch:{},mutations:void 0});

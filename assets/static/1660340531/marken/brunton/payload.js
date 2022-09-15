@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/brunton", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/brunton-tag-along-globe-kompass-brunton-5637827416.jpg":"\u002Fassets\u002Fimages\u002Fbrunton-tag-along-globe-kompass-brunton-5637827416.webp"}}],fetch:{},mutations:void 0});

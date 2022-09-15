@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/nemo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nemo-chipper-sitzkissen-nemo-5637829248.jpg":"\u002Fassets\u002Fimages\u002Fnemo-chipper-sitzkissen-nemo-5637829248.webp"}}],fetch:{},mutations:void 0});
