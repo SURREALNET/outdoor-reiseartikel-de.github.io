@@ -1,134 +1,147 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
-    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
-        "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
-        },
-        "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
-        },
-        "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+  "configIsReady": true,
+  "domain": "outdoor-reiseartikel.de/",
+  "hostname": "https://www.outdoor-reiseartikel.de/",
+  "email": "outdoor-reiseartikel.de@surrealnetworks.io",
+  "organization": "outdoor-reiseartikel.de/",
+  "logoText": "outdoor-reiseartikel.de/",
+  "title": "Outdoor Reiseartikel Shop",
+  "subline": "Dein Shop für die Reiseartikel im Outdoor-Bereich",
+  "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "5637880852",
+    "5637412330",
+    "5637942026"
+  ],
+  "winnerProducts": [
+    "5637871373",
+    "5637896170",
+    "5637880842"
+  ],
+  "featuredCategories": [
+    "Handtücher und Zubehör",
+    "Reisekomfort",
+    "Reisespiele",
+    "Reparatur",
+    "Fitness Zubehör",
+    "Büro unterwegs"
+  ],
+  "socialMediaAccounts": [
+    {
+      "name": "Twitter",
+      "link": "https://www.twitter.com/outdoor-reiseartikel.de",
+      "iconClass": "fab fa-twitter",
+      "published": false
+    }
+  ],
+  "imageQuality": 90,
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Outdoor Ausrüstung",
+    "featureText": "<p class=\"mb-4\">Online Shop über Produkte für das nächste Outdoor Abenteuer.</p><p>Das beste Outdoor-Equipment und Zubehör für Damen und Herren.</p><p>Willkommen bei Outdoor-Reiseartikel.de, deiner Quelle für Informationen über Outdoor-Ausrüstung für deine Reise. Unser Expertenteam bietet die neuesten Nachrichten und Ratschläge zu allen Themen von Wandern und Camping. Egal, ob du ein Anfänger oder ein erfahrener Profi bist, wir haben die tollsten Artikel, die du brauchst, um das Beste aus deinen Outdoor-Abenteuern zu machen. Schau dir unbedingt unsere Produkte an, um die beste Ausrüstung für deine Bedürfnisse zu finden. Und vergiss nicht, unsere Seite zu bookmarken - es gibt täglich neue Inhalte!</p>",
+    "index": {
+      "title": "Outdoor-Reiseartikel.de",
+      "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
+      "robots": "index, follow",
+      "texts": []
+    },
+    "shop": {
+      "title": "Online Shop Outdoor Ausrüstung und Zubehör",
+      "metaDescription": "Outdoor Ausrüstung bietet die beste Ausrüstung für Outdoor Survival und Abenteuer. Mit den Produkten der besten Marken bist du auf alles vorbereitet.",
+      "robots": "index, follow"
+    },
+    "hersteller": {
+      "title": "Alle Marken für Outdoor Ausrüstung im Überblick",
+      "metaDescription": "Hier findest du alle Hersteller und Marken für Outdoor Ausrüstung im Überblick. Top Marken wie Fjällräven, Therm-A-Rest, Sea to Summit und viele mehr.",
+      "robots": "index, follow"
+    }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT kaufen | Outdoor-Reiseartikel.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen in unserem Online Shop. Best-Preis-Garantie. Produkte auf Lager. Schneller Versand.",
+    "defaultRobots": "index, follow",
+    "products": []
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
+    "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "outdoor ausrüstung",
+        "slug": "outdoor ausrüstung",
+        "name": "outdoor ausrüstung",
+        "seo": {
+          "title": "Outdoor Ausrüstung günstig kaufen",
+          "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
+          "robots": "index, follow"
         }
-    },
-    "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
-            }
-        }]
-    },
-    "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
-            }
-        }]
-    },
-    "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
-            }
-        }]
-    },
-    "navigationLinks": [{
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Wassersport",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
-            "publish": false
-        }
+      }
     ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
+    "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "fjällräven",
+        "name": "fjällräven",
+        "seo": {
+          "title": "Produkte von Fjällräven günstig kaufen",
+          "metaDescription": "Alle Produkte von dem weltweit führenden Hersteller Fjällräven. Erlebe die Natur und sei bei jedem Abenteuer ein Teil von Fjällräven.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "key": "therm-a-rest",
+        "name": "therm-a-rest",
+        "seo": {
+          "title": "Produkte von Therm-A-Rest günstig kaufen",
+          "metaDescription": "Qualitativ hochwertige Produkte von Therm-A-Rest überzeugen die Kunden stets. Der amerikanische Hersteller verhilft dir zu einem spannenden Abenteuer.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "checklist": [
+    "Hochwertig",
+    "Beständig",
+    "Preis-Leistungsverhältnis",
+    "Zertifiziert",
+    "Komfort",
+    "Garantie"
+  ],
+  "navigationLinks": [
+    {
+      "title": "Startseite",
+      "linkTo": "/",
+      "linkTitle": "Outdoor-Reiseartikel.de",
+      "publish": true
+    },
+    {
+      "title": "Online Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Shop für Outdoor Ausrüstung und Zubehör",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "publish": true,
+      "linkTo": "/marken/",
+      "linkTitle": "Outdoor-Reiseartikel.de von führenden Marken"
+    },
+    {
+      "title": "Kontakt",
+      "linkTitle": "Kontakt aufnehmen",
+      "linkTo": "#kontakt",
+      "publish": false
+    }
+  ]
 }
