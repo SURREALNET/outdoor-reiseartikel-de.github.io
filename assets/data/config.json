@@ -1,147 +1,193 @@
 {
-  "configIsReady": true,
-  "domain": "outdoor-reiseartikel.de/",
-  "hostname": "https://www.outdoor-reiseartikel.de",
-  "email": "outdoor-reiseartikel.de@surrealnetworks.io",
-  "organization": "outdoor-reiseartikel.de/",
-  "logoText": "outdoor-reiseartikel.de/",
-  "title": "Outdoor Reiseartikel Shop",
-  "subline": "Dein Shop für die Reiseartikel im Outdoor-Bereich",
-  "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637880852",
-    "5637412330",
-    "5637942026"
-  ],
-  "winnerProducts": [
-    "5637871373",
-    "5637896170",
-    "5637880842"
-  ],
-  "featuredCategories": [
-    "Handtücher und Zubehör",
-    "Reisekomfort",
-    "Reisespiele",
-    "Reparatur",
-    "Fitness Zubehör",
-    "Büro unterwegs"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/outdoor-reiseartikel.de",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoor Ausrüstung",
-    "featureText": "<p class=\"mb-4\">Online Shop über Produkte für das nächste Outdoor Abenteuer.</p><p>Das beste Outdoor-Equipment und Zubehör für Damen und Herren.</p><p>Willkommen bei Outdoor-Reiseartikel.de, deiner Quelle für Informationen über Outdoor-Ausrüstung für deine Reise. Unser Expertenteam bietet die neuesten Nachrichten und Ratschläge zu allen Themen von Wandern und Camping. Egal, ob du ein Anfänger oder ein erfahrener Profi bist, wir haben die tollsten Artikel, die du brauchst, um das Beste aus deinen Outdoor-Abenteuern zu machen. Schau dir unbedingt unsere Produkte an, um die beste Ausrüstung für deine Bedürfnisse zu finden. Und vergiss nicht, unsere Seite zu bookmarken - es gibt täglich neue Inhalte!</p>",
-    "index": {
-      "title": "Outdoor-Reiseartikel.de",
-      "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
-      "robots": "index, follow",
-      "texts": []
-    },
-    "shop": {
-      "title": "Online Shop Outdoor Ausrüstung und Zubehör",
-      "metaDescription": "Outdoor Ausrüstung bietet die beste Ausrüstung für Outdoor Survival und Abenteuer. Mit den Produkten der besten Marken bist du auf alles vorbereitet.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Alle Marken für Outdoor Ausrüstung im Überblick",
-      "metaDescription": "Hier findest du alle Hersteller und Marken für Outdoor Ausrüstung im Überblick. Top Marken wie Fjällräven, Therm-A-Rest, Sea to Summit und viele mehr.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT kaufen | Outdoor-Reiseartikel.de",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen in unserem Online Shop. Best-Preis-Garantie. Produkte auf Lager. Schneller Versand.",
-    "defaultRobots": "index, follow",
-    "products": []
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
-    "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "outdoor ausrüstung",
-        "slug": "outdoor ausrüstung",
-        "name": "outdoor ausrüstung",
-        "seo": {
-          "title": "Outdoor Ausrüstung günstig kaufen",
-          "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
-          "robots": "index, follow"
+    "configIsReady": true,
+    "domain": "outdoor-reiseartikel.de",
+    "hostname": "https://www.outdoor-reiseartikel.de",
+    "email": "outdoor-reiseartikel.de@surrealnetworks.io",
+    "organization": "outdoor-reiseartikel.de/",
+    "logoText": "outdoor-reiseartikel.de",
+    "title": "Outdoor Reiseartikel Shop",
+    "subline": "Dein Shop für die Reiseartikel im Outdoor-Bereich",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637880852",
+        "5637412330",
+        "5637942026"
+    ],
+    "winnerProducts": [
+        "5637871373",
+        "5637896170",
+        "5637880842"
+    ],
+    "featuredCategories": [
+        "Handtücher und Zubehör",
+        "Reisekomfort",
+        "Reisespiele",
+        "Reparatur",
+        "Fitness Zubehör",
+        "Büro unterwegs"
+    ],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/outdoor-reiseartikel.de",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Ausrüstung",
+        "featureText": "<p class=\"mb-4\">Online Shop über Produkte für das nächste Outdoor Abenteuer.</p><p>Das beste Outdoor-Equipment und Zubehör für Damen und Herren.</p><p>Willkommen bei Outdoor-Reiseartikel.de, deiner Quelle für Informationen über Outdoor-Ausrüstung für deine Reise. Unser Expertenteam bietet die neuesten Nachrichten und Ratschläge zu allen Themen von Wandern und Camping. Egal, ob du ein Anfänger oder ein erfahrener Profi bist, wir haben die tollsten Artikel, die du brauchst, um das Beste aus deinen Outdoor-Abenteuern zu machen. Schau dir unbedingt unsere Produkte an, um die beste Ausrüstung für deine Bedürfnisse zu finden. Und vergiss nicht, unsere Seite zu bookmarken - es gibt täglich neue Inhalte!</p>",
+        "index": {
+            "title": "Outdoor-Reiseartikel.de",
+            "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Willkommen bei Outdoor-Reiseartikel",
+                    "text": "Outdoor-Reiseartikel ist Ihr Online-Shop für alles, was Sie für Ihre Outdoor-Abenteuer benötigen. Wir bieten eine große Auswahl an hochwertiger Outdoor-Ausrüstung, von Reisespielen bis hin zu Fitness-Zubehör. Entdecken Sie unsere Kategorien und finden Sie das perfekte Produkt für Ihre nächste Reise."
+                },
+                {
+                    "title": "Reisespiele",
+                    "text": "Verpassen Sie auf Ihren Reisen keine Langeweile mehr mit unseren hochwertigen <a href=\"/kategorie/reisespiele/\" title=\"Reisespiele\">Reisespielen</a>. Unsere Auswahl bietet für jeden Geschmack das passende Spiel, egal ob Sie alleine oder mit Freunden unterwegs sind. Entdecken Sie jetzt unser Angebot an Reisespielen."
+                },
+                {
+                    "title": "Büro unterwegs",
+                    "text": "Auch unterwegs müssen Sie nicht auf Ihre Arbeit verzichten. Mit unserem <a href=\"/kategorie/buero-unterwegs/\" title=\"Büro-Zubehör\">Büro-Zubehör</a> können Sie jederzeit produktiv arbeiten. Ob Sie auf Geschäftsreise sind oder einfach nur in den Urlaub fahren, mit unseren praktischen Lösungen sind Sie bestens ausgestattet."
+                },
+                {
+                    "title": "Handtücher und Zubehör",
+                    "text": "Bleiben Sie auch unterwegs trocken und sauber mit unseren hochwertigen <a href=\"/kategorie/handtuecher-und-zubehoer/\" title=\"Handtücher und Zubehör\">Handtüchern und Zubehör</a>. Wir bieten eine große Auswahl an Handtüchern in verschiedenen Größen und Materialien, die Sie bequem mitnehmen können. Entdecken Sie jetzt unser Angebot an Handtüchern und Zubehör."
+                },
+                {
+                    "title": "Boxen, Tonnen, Behälter",
+                    "text": "Verstauen Sie all Ihre Gegenstände sicher und ordentlich mit unseren <a href=\"/kategorie/boxen-tonnen-behaelter/\" title=\"Boxen, Tonnen, Behälter\">Boxen, Tonnen und Behältern</a>. Unsere Produkte sind in verschiedenen Größen und Materialien erhältlich, so dass Sie genau das finden, was Sie brauchen. Entdecken Sie jetzt unser Angebot an Boxen, Tonnen und Behältern."
+                },
+                {
+                    "title": "Schlüsselanhänger",
+                    "text": "Verlieren Sie nie wieder Ihre Schlüssel mit unseren praktischen <a href=\"/kategorie/schluesselanhaenger/\" title=\"Schlüsselanhänger\">Schlüsselanhängern</a>. Unsere Auswahl bietet eine Vielzahl an Designs und Materialien, so dass Sie den perfekten Schlüsselanhänger für Ihre Bedürfnisse finden können. Entdecken Sie jetzt unser Angebot an Schlüsselanhängern."
+                },
+                {
+                    "title": "Fitness Zubehör",
+                    "text": "Bleiben Sie auch unterwegs fit mit unserem <a href=\"/kategorie/fitness-zubehoer/\" title=\"Fitness Zubehör\">Fitness-Zubehör</a>. Ob Sie joggen, Yoga machen oder einfach nur ein paar Übungen machen möchten, wir haben das richtige Zubehör für Sie. Entdecken Sie jetzt unser Angebot an Fitness-Zubehör."
+                },
+                {
+                    "title": "Reisekomfort",
+                    "text": "Machen Sie Ihre Reise noch komfortabler mit unserem <a href=\"/kategorie/reisekomfort/\" title=\"Reisekomfort\">Reisekomfort</a>-Zubehör. Von bequemen Kissen bis hin zu praktischen Aufbewahrungslösungen haben wir alles, was Sie brauchen. Entdecken Sie jetzt unser Angebot an Reisekomfort-Zubehör."
+                },
+                {
+                    "title": "Reparatur",
+                    "text": "Mit unserem <a href=\"/kategorie/reparatur/\" title=\"Reparatur\">Reparatur</a>-Zubehör können Sie Ihre Outdoor-Ausrüstung immer in einwandfreiem Zustand halten. Ob Sie einen Reißverschluss ersetzen oder einen Riss flicken müssen, wir haben das richtige Werkzeug für Sie. Entdecken Sie jetzt unser Angebot an Reparatur-Zubehör."
+                },
+                {
+                    "title": "Feuerzeuge und Zubehör",
+                    "text": "Bleiben Sie auch in unwegsamen Gebieten immer in der Lage, ein Feuer zu entzünden, mit unseren <a href=\"/kategorie/feuerzeuge-und-zubehoer/\" title=\"Feuerzug und Zubehör\">Feuerzeugen und Zubehör</a>. Unsere Auswahl bietet eine Vielzahl an Lösungen, von tragbaren Feuerzeugen bis hin zu praktischen Zündsteinen. Entdecken Sie jetzt unser Angebot an Feuerzeugen und Zubehör."
+                },
+                {
+                    "title": "Sicherheit unterwegs",
+                    "text": "Bleiben Sie auch unterwegs sicher mit unserem <a href=\"/kategorie/sicherheit-unterwegs/\" title=\"Sicherheitszubehör\">Sicherheit-Zubehör</a>. Ob Sie eine Taschenlampe, eine Alarmpfeife oder eine Signalpfeife benötigen, wir haben das richtige Zubehör für Sie. Entdecken Sie jetzt unser Angebot an Sicherheit-Zubehör."
+                },
+                {
+                    "title": "Heizungen und Taschenöfen",
+                    "text": "Bleiben Sie auch bei kalten Temperaturen warm mit unseren <a href=\"/kategorie/heizungen-und-taschenoefen/\" title=\"Heizungen und Taschenöfen\">Heizungen und Taschenöfen</a>. Unsere Auswahl bietet eine Vielzahl an Lösungen, von tragbaren Taschenöfen bis hin zu praktischen Heizdecken. Entdecken Sie jetzt unser Angebot an Heizungen und Taschenöfen."
+                },
+                {
+                    "title": "Ihr Online Shop für Outdoor Ausrüstung",
+                    "text": "Vielen Dank, dass Sie sich für Outdoor-Reiseartikel entschieden haben. Wir hoffen, dass Sie alles gefunden haben, was Sie für Ihre nächste Reise benötigen. Besuchen Sie uns jederzeit wieder für mehr hochwertige Outdoor-Ausrüstung. Vielen Dank für Ihren Einkauf bei Outdoor-Reiseartikel."
+                }
+            ]
+        },
+        "shop": {
+            "title": "Online Shop Outdoor Ausrüstung und Zubehör",
+            "metaDescription": "Outdoor Ausrüstung bietet die beste Ausrüstung für Outdoor Survival und Abenteuer. Mit den Produkten der besten Marken bist du auf alles vorbereitet.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Outdoor Ausrüstung im Überblick",
+            "metaDescription": "Hier findest du alle Hersteller und Marken für Outdoor Ausrüstung im Überblick. Top Marken wie Fjällräven, Therm-A-Rest, Sea to Summit und viele mehr.",
+            "robots": "index, follow"
         }
-      }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT kaufen | Outdoor-Reiseartikel.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen in unserem Online Shop. Best-Preis-Garantie. Produkte auf Lager. Schneller Versand.",
+        "defaultRobots": "index, follow",
+        "products": []
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
+        "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
+        "defaultRobots": "index, follow",
+        "categories": [{
+            "key": "outdoor ausrüstung",
+            "slug": "outdoor ausrüstung",
+            "name": "outdoor ausrüstung",
+            "seo": {
+                "title": "Outdoor Ausrüstung günstig kaufen",
+                "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
+        "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
+        "defaultRobots": "index, follow",
+        "brands": [{
+                "key": "fjällräven",
+                "name": "fjällräven",
+                "seo": {
+                    "title": "Produkte von Fjällräven günstig kaufen",
+                    "metaDescription": "Alle Produkte von dem weltweit führenden Hersteller Fjällräven. Erlebe die Natur und sei bei jedem Abenteuer ein Teil von Fjällräven.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "therm-a-rest",
+                "name": "therm-a-rest",
+                "seo": {
+                    "title": "Produkte von Therm-A-Rest günstig kaufen",
+                    "metaDescription": "Qualitativ hochwertige Produkte von Therm-A-Rest überzeugen die Kunden stets. Der amerikanische Hersteller verhilft dir zu einem spannenden Abenteuer.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Hochwertig",
+        "Beständig",
+        "Preis-Leistungsverhältnis",
+        "Zertifiziert",
+        "Komfort",
+        "Garantie"
+    ],
+    "navigationLinks": [{
+            "title": "Startseite",
+            "linkTo": "/",
+            "linkTitle": "Outdoor-Reiseartikel.de",
+            "publish": true
+        },
+        {
+            "title": "Online Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Shop für Outdoor Ausrüstung und Zubehör",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Outdoor-Reiseartikel.de von führenden Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
     ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
-    "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "fjällräven",
-        "name": "fjällräven",
-        "seo": {
-          "title": "Produkte von Fjällräven günstig kaufen",
-          "metaDescription": "Alle Produkte von dem weltweit führenden Hersteller Fjällräven. Erlebe die Natur und sei bei jedem Abenteuer ein Teil von Fjällräven.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "therm-a-rest",
-        "name": "therm-a-rest",
-        "seo": {
-          "title": "Produkte von Therm-A-Rest günstig kaufen",
-          "metaDescription": "Qualitativ hochwertige Produkte von Therm-A-Rest überzeugen die Kunden stets. Der amerikanische Hersteller verhilft dir zu einem spannenden Abenteuer.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Hochwertig",
-    "Beständig",
-    "Preis-Leistungsverhältnis",
-    "Zertifiziert",
-    "Komfort",
-    "Garantie"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Startseite",
-      "linkTo": "/",
-      "linkTitle": "Outdoor-Reiseartikel.de",
-      "publish": true
-    },
-    {
-      "title": "Online Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Shop für Outdoor Ausrüstung und Zubehör",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Outdoor-Reiseartikel.de von führenden Marken"
-    },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
-    }
-  ]
 }
