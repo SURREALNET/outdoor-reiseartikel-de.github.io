@@ -32,12 +32,14 @@
         "Fitness Zubehör",
         "Büro unterwegs"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/outdoor-reiseartikel.de",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-reiseartikel.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -47,59 +49,59 @@
             "title": "Outdoor-Reiseartikel.de",
             "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Willkommen bei Outdoor-Reiseartikel",
-                    "text": "Outdoor-Reiseartikel ist Ihr Online-Shop für alles, was Sie für Ihre Outdoor-Abenteuer benötigen. Wir bieten eine große Auswahl an hochwertiger Outdoor-Ausrüstung, von Reisespielen bis hin zu Fitness-Zubehör. Entdecken Sie unsere Kategorien und finden Sie das perfekte Produkt für Ihre nächste Reise."
-                },
-                {
-                    "title": "Reisespiele",
-                    "text": "Verpassen Sie auf Ihren Reisen keine Langeweile mehr mit unseren hochwertigen <a href=\"/kategorie/reisespiele/\" title=\"Reisespiele\">Reisespielen</a>. Unsere Auswahl bietet für jeden Geschmack das passende Spiel, egal ob Sie alleine oder mit Freunden unterwegs sind. Entdecken Sie jetzt unser Angebot an Reisespielen."
-                },
-                {
-                    "title": "Büro unterwegs",
-                    "text": "Auch unterwegs müssen Sie nicht auf Ihre Arbeit verzichten. Mit unserem <a href=\"/kategorie/buero-unterwegs/\" title=\"Büro-Zubehör\">Büro-Zubehör</a> können Sie jederzeit produktiv arbeiten. Ob Sie auf Geschäftsreise sind oder einfach nur in den Urlaub fahren, mit unseren praktischen Lösungen sind Sie bestens ausgestattet."
-                },
-                {
-                    "title": "Handtücher und Zubehör",
-                    "text": "Bleiben Sie auch unterwegs trocken und sauber mit unseren hochwertigen <a href=\"/kategorie/handtuecher-und-zubehoer/\" title=\"Handtücher und Zubehör\">Handtüchern und Zubehör</a>. Wir bieten eine große Auswahl an Handtüchern in verschiedenen Größen und Materialien, die Sie bequem mitnehmen können. Entdecken Sie jetzt unser Angebot an Handtüchern und Zubehör."
-                },
-                {
-                    "title": "Boxen, Tonnen, Behälter",
-                    "text": "Verstauen Sie all Ihre Gegenstände sicher und ordentlich mit unseren <a href=\"/kategorie/boxen-tonnen-behaelter/\" title=\"Boxen, Tonnen, Behälter\">Boxen, Tonnen und Behältern</a>. Unsere Produkte sind in verschiedenen Größen und Materialien erhältlich, so dass Sie genau das finden, was Sie brauchen. Entdecken Sie jetzt unser Angebot an Boxen, Tonnen und Behältern."
-                },
-                {
-                    "title": "Schlüsselanhänger",
-                    "text": "Verlieren Sie nie wieder Ihre Schlüssel mit unseren praktischen <a href=\"/kategorie/schluesselanhaenger/\" title=\"Schlüsselanhänger\">Schlüsselanhängern</a>. Unsere Auswahl bietet eine Vielzahl an Designs und Materialien, so dass Sie den perfekten Schlüsselanhänger für Ihre Bedürfnisse finden können. Entdecken Sie jetzt unser Angebot an Schlüsselanhängern."
-                },
-                {
-                    "title": "Fitness Zubehör",
-                    "text": "Bleiben Sie auch unterwegs fit mit unserem <a href=\"/kategorie/fitness-zubehoer/\" title=\"Fitness Zubehör\">Fitness-Zubehör</a>. Ob Sie joggen, Yoga machen oder einfach nur ein paar Übungen machen möchten, wir haben das richtige Zubehör für Sie. Entdecken Sie jetzt unser Angebot an Fitness-Zubehör."
-                },
-                {
-                    "title": "Reisekomfort",
-                    "text": "Machen Sie Ihre Reise noch komfortabler mit unserem <a href=\"/kategorie/reisekomfort/\" title=\"Reisekomfort\">Reisekomfort</a>-Zubehör. Von bequemen Kissen bis hin zu praktischen Aufbewahrungslösungen haben wir alles, was Sie brauchen. Entdecken Sie jetzt unser Angebot an Reisekomfort-Zubehör."
-                },
-                {
-                    "title": "Reparatur",
-                    "text": "Mit unserem <a href=\"/kategorie/reparatur/\" title=\"Reparatur\">Reparatur</a>-Zubehör können Sie Ihre Outdoor-Ausrüstung immer in einwandfreiem Zustand halten. Ob Sie einen Reißverschluss ersetzen oder einen Riss flicken müssen, wir haben das richtige Werkzeug für Sie. Entdecken Sie jetzt unser Angebot an Reparatur-Zubehör."
-                },
-                {
-                    "title": "Feuerzeuge und Zubehör",
-                    "text": "Bleiben Sie auch in unwegsamen Gebieten immer in der Lage, ein Feuer zu entzünden, mit unseren <a href=\"/kategorie/feuerzeuge-und-zubehoer/\" title=\"Feuerzug und Zubehör\">Feuerzeugen und Zubehör</a>. Unsere Auswahl bietet eine Vielzahl an Lösungen, von tragbaren Feuerzeugen bis hin zu praktischen Zündsteinen. Entdecken Sie jetzt unser Angebot an Feuerzeugen und Zubehör."
-                },
-                {
-                    "title": "Sicherheit unterwegs",
-                    "text": "Bleiben Sie auch unterwegs sicher mit unserem <a href=\"/kategorie/sicherheit-unterwegs/\" title=\"Sicherheitszubehör\">Sicherheit-Zubehör</a>. Ob Sie eine Taschenlampe, eine Alarmpfeife oder eine Signalpfeife benötigen, wir haben das richtige Zubehör für Sie. Entdecken Sie jetzt unser Angebot an Sicherheit-Zubehör."
-                },
-                {
-                    "title": "Heizungen und Taschenöfen",
-                    "text": "Bleiben Sie auch bei kalten Temperaturen warm mit unseren <a href=\"/kategorie/heizungen-und-taschenoefen/\" title=\"Heizungen und Taschenöfen\">Heizungen und Taschenöfen</a>. Unsere Auswahl bietet eine Vielzahl an Lösungen, von tragbaren Taschenöfen bis hin zu praktischen Heizdecken. Entdecken Sie jetzt unser Angebot an Heizungen und Taschenöfen."
-                },
-                {
-                    "title": "Ihr Online Shop für Outdoor Ausrüstung",
-                    "text": "Vielen Dank, dass Sie sich für Outdoor-Reiseartikel entschieden haben. Wir hoffen, dass Sie alles gefunden haben, was Sie für Ihre nächste Reise benötigen. Besuchen Sie uns jederzeit wieder für mehr hochwertige Outdoor-Ausrüstung. Vielen Dank für Ihren Einkauf bei Outdoor-Reiseartikel."
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Reiseartikel.de",
+                        "text": "Herzlich willkommen auf Outdoor-Reiseartikel.de, Ihrem Online-Shop für hochwertige Outdoor-Ausrüstung. Wir bieten Ihnen eine große Auswahl an Produkten für Ihre nächste Outdoor-Reise, egal ob Sie wandern, klettern oder campen möchten. Unsere Produkte sind sorgfältig ausgewählt, um Ihnen eine hohe Qualität und Langlebigkeit zu garantieren. Wir haben für jeden Bedarf die passende Ausrüstung, von Reisespielen über Bürobedarf unterwegs bis hin zu Handtüchern und Zubehör. Mit unseren Boxen, Tonnen und Behältern können Sie Ihre Ausrüstung sicher verstauen und transportieren. Für mehr Sicherheit unterwegs bieten wir Ihnen auch Feuerzeuge und Sicherheitsausrüstung. Wir verstehen, dass bequemer und angenehmer Reisekomfort für Sie wichtig ist, daher haben wir auch eine Auswahl an Heizungen und Taschenöfen sowie Fitness-Zubehör für Sie bereitgestellt. Wir hoffen, dass Sie bei uns alles finden, was Sie für Ihre nächste Outdoor-Reise brauchen. Schauen Sie sich in Ruhe um und lassen Sie sich inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Reisespiele",
+                        "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/reisespiele/\" title=\"Reisespiele\">Reisespiele</a>n für deinen nächsten Urlaub. Ob für lange Flugreisen oder einfach für unterwegs, bei uns findest du garantiert das richtige Spiel. Wähle aus einer großen Auswahl an Spielen für Kinder und Erwachsene, um dir die Zeit zu vertreiben. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Büro unterwegs",
+                        "text": "Arbeite auch unterwegs produktiv mit unseren Büro-Artikeln für unterwegs. Ob für den nächsten Geschäftstermin oder einfach für den Urlaub, bei uns findest du alles, was du brauchst. Von Laptops über Drucker bis hin zu Schreibutensilien, wir haben alles im Angebot. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Handtücher und Zubehör",
+                        "text": "Bleibe auch unterwegs immer sauber und trocken mit unseren Handtüchern und Zubehör. Wähle aus einer großen Auswahl an Größen und Farben, um das perfekte Handtuch für deine Bedürfnisse zu finden. Ob für den Strand oder für den Pool, bei uns findest du das richtige Handtuch. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Boxen, Tonnen, Behälter",
+                        "text": "Organisiere deine Ausrüstung mit unseren Boxen, Tonnen und Behältern. Wähle aus einer großen Auswahl an Größen und Farben, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Transport oder die Aufbewahrung, bei uns findest du die richtigen Behälter. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Schlüsselanhänger",
+                        "text": "Halte deine Schlüssel immer griffbereit mit unseren stylischen <a href=\"/kategorie/schluesselanhaenger/\" title=\"Schlüsselanhänger\">Schlüsselanhänger</a>n. Wähle aus einer großen Auswahl an Designs und Materialien, um den perfekten Anhänger für dich zu finden. Ob für den Alltag oder als Geschenk, bei uns findest du den passenden Schlüsselanhänger. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Fitness Zubehör",
+                        "text": "Bleibe auch unterwegs fit mit unserem Fitness-Zubehör. Wähle aus einer großen Auswahl an Produkten, um das perfekte Set für deine Bedürfnisse zu finden. Ob für das Training im Freien oder im Hotel, bei uns findest du das richtige Zubehör. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Reisekomfort",
+                        "text": "Steigere deinen <a href=\"/kategorie/reisekomfort/\" title=\"Reisekomfort\">Reisekomfort</a> mit unseren praktischen Produkten. Wähle aus einer großen Auswahl an Kissen, Decken und weiteren Artikeln, um deine Reise so bequem wie möglich zu gestalten. Ob für den Flug, den Zug oder das Auto, bei uns findest du das richtige Produkt. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Reparatur",
+                        "text": "Sei immer auf alle Eventualitäten vorbereitet mit unseren <a href=\"/kategorie/reparatur/\" title=\"Reparatur\">Reparatur</a>-Artikeln. Wähle aus einer großen Auswahl an Produkten, um deine Ausrüstung schnell und einfach reparieren zu können. Ob für den Zeltstoff oder das Zeltzubehör, bei uns findest du das richtige Reparatur-Set. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Feuerzeuge und Zubehör",
+                        "text": "Entzünde Feuer im Handumdrehen mit unseren Feuerzeugen und Zubehör. Wähle aus einer großen Auswahl an Produkten, um das richtige Feuerzeug für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für den Notfall, bei uns findest du das passende Feuerzeug. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Sicherheit unterwegs",
+                        "text": "Bleibe immer sicher unterwegs mit unseren Produkten für die Sicherheit auf Reisen. Wähle aus einer großen Auswahl an Taschenlampen, Signalpfeifen und weiteren Artikeln, um dich auf jede Eventualität vorzubereiten. Ob für den Wald oder den Stadtpark, bei uns findest du das richtige Produkt für deine Bedürfnisse. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    },
+                    {
+                        "title": "Heizungen und Taschenöfen",
+                        "text": "Bleibe auch unterwegs warm mit unseren <a href=\"/kategorie/heizungen-und-taschenoefen/\" title=\"Heizungen und Taschenöfen\">Heizungen und Taschenöfen</a>. Wähle aus einer großen Auswahl an Produkten, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für kalte Wintertage, bei uns findest du die richtigen Heizungen und Taschenöfen. Bestelle jetzt bei outdoor-reiseartikel.de."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Online Shop Outdoor Ausrüstung und Zubehör",
@@ -122,22 +124,25 @@
         "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
         "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "outdoor ausrüstung",
-            "slug": "outdoor ausrüstung",
-            "name": "outdoor ausrüstung",
-            "seo": {
-                "title": "Outdoor Ausrüstung günstig kaufen",
-                "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "outdoor ausrüstung",
+                "slug": "outdoor ausrüstung",
+                "name": "outdoor ausrüstung",
+                "seo": {
+                    "title": "Outdoor Ausrüstung günstig kaufen",
+                    "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
         "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "fjällräven",
                 "name": "fjällräven",
                 "seo": {
@@ -165,7 +170,8 @@
         "Komfort",
         "Garantie"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Startseite",
             "linkTo": "/",
             "linkTitle": "Outdoor-Reiseartikel.de",
