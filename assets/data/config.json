@@ -1,199 +1,236 @@
 {
-    "configIsReady": true,
-    "domain": "outdoor-reiseartikel.de",
-    "hostname": "https://www.outdoor-reiseartikel.de",
-    "email": "outdoor-reiseartikel.de@surrealnetworks.io",
-    "organization": "outdoor-reiseartikel.de/",
-    "logoText": "outdoor-reiseartikel.de",
-    "title": "Outdoor Reiseartikel Shop",
-    "subline": "Dein Shop für die Reiseartikel im Outdoor-Bereich",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "5637880852",
-        "5637412330",
-        "5637942026"
-    ],
-    "winnerProducts": [
-        "5637871373",
-        "5637896170",
-        "5637880842"
-    ],
-    "featuredCategories": [
-        "Handtücher und Zubehör",
-        "Reisekomfort",
-        "Reisespiele",
-        "Reparatur",
-        "Fitness Zubehör",
-        "Büro unterwegs"
-    ],
-    "socialMediaAccounts": [
-        {
-            "name": "Twitter",
-            "link": "https://www.twitter.com/outdoor-reiseartikel.de",
-            "iconClass": "fab fa-twitter",
-            "published": false
-        }
-    ],
-    "imageQuality": 90,
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Outdoor Ausrüstung",
-        "featureText": "<p class=\"mb-4\">Online Shop über Produkte für das nächste Outdoor Abenteuer.</p><p>Das beste Outdoor-Equipment und Zubehör für Damen und Herren.</p><p>Willkommen bei Outdoor-Reiseartikel.de, deiner Quelle für Informationen über Outdoor-Ausrüstung für deine Reise. Unser Expertenteam bietet die neuesten Nachrichten und Ratschläge zu allen Themen von Wandern und Camping. Egal, ob du ein Anfänger oder ein erfahrener Profi bist, wir haben die tollsten Artikel, die du brauchst, um das Beste aus deinen Outdoor-Abenteuern zu machen. Schau dir unbedingt unsere Produkte an, um die beste Ausrüstung für deine Bedürfnisse zu finden. Und vergiss nicht, unsere Seite zu bookmarken - es gibt täglich neue Inhalte!</p>",
-        "index": {
-            "title": "Outdoor-Reiseartikel.de",
-            "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Outdoor-Reiseartikel.de",
-                        "text": "Herzlich willkommen auf Outdoor-Reiseartikel.de, Ihrem Online-Shop für hochwertige Outdoor-Ausrüstung. Wir bieten Ihnen eine große Auswahl an Produkten für Ihre nächste Outdoor-Reise, egal ob Sie wandern, klettern oder campen möchten. Unsere Produkte sind sorgfältig ausgewählt, um Ihnen eine hohe Qualität und Langlebigkeit zu garantieren. Wir haben für jeden Bedarf die passende Ausrüstung, von Reisespielen über Bürobedarf unterwegs bis hin zu Handtüchern und Zubehör. Mit unseren Boxen, Tonnen und Behältern können Sie Ihre Ausrüstung sicher verstauen und transportieren. Für mehr Sicherheit unterwegs bieten wir Ihnen auch Feuerzeuge und Sicherheitsausrüstung. Wir verstehen, dass bequemer und angenehmer Reisekomfort für Sie wichtig ist, daher haben wir auch eine Auswahl an Heizungen und Taschenöfen sowie Fitness-Zubehör für Sie bereitgestellt. Wir hoffen, dass Sie bei uns alles finden, was Sie für Ihre nächste Outdoor-Reise brauchen. Schauen Sie sich in Ruhe um und lassen Sie sich inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-                    },
-                    {
-                        "title": "Reisespiele",
-                        "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/reisespiele/\" title=\"Reisespiele\">Reisespiele</a>n für deinen nächsten Urlaub. Ob für lange Flugreisen oder einfach für unterwegs, bei uns findest du garantiert das richtige Spiel. Wähle aus einer großen Auswahl an Spielen für Kinder und Erwachsene, um dir die Zeit zu vertreiben. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Büro unterwegs",
-                        "text": "Arbeite auch unterwegs produktiv mit unseren Büro-Artikeln für unterwegs. Ob für den nächsten Geschäftstermin oder einfach für den Urlaub, bei uns findest du alles, was du brauchst. Von Laptops über Drucker bis hin zu Schreibutensilien, wir haben alles im Angebot. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Handtücher und Zubehör",
-                        "text": "Bleibe auch unterwegs immer sauber und trocken mit unseren Handtüchern und Zubehör. Wähle aus einer großen Auswahl an Größen und Farben, um das perfekte Handtuch für deine Bedürfnisse zu finden. Ob für den Strand oder für den Pool, bei uns findest du das richtige Handtuch. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Boxen, Tonnen, Behälter",
-                        "text": "Organisiere deine Ausrüstung mit unseren Boxen, Tonnen und Behältern. Wähle aus einer großen Auswahl an Größen und Farben, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Transport oder die Aufbewahrung, bei uns findest du die richtigen Behälter. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Schlüsselanhänger",
-                        "text": "Halte deine Schlüssel immer griffbereit mit unseren stylischen <a href=\"/kategorie/schluesselanhaenger/\" title=\"Schlüsselanhänger\">Schlüsselanhänger</a>n. Wähle aus einer großen Auswahl an Designs und Materialien, um den perfekten Anhänger für dich zu finden. Ob für den Alltag oder als Geschenk, bei uns findest du den passenden Schlüsselanhänger. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Fitness Zubehör",
-                        "text": "Bleibe auch unterwegs fit mit unserem Fitness-Zubehör. Wähle aus einer großen Auswahl an Produkten, um das perfekte Set für deine Bedürfnisse zu finden. Ob für das Training im Freien oder im Hotel, bei uns findest du das richtige Zubehör. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Reisekomfort",
-                        "text": "Steigere deinen <a href=\"/kategorie/reisekomfort/\" title=\"Reisekomfort\">Reisekomfort</a> mit unseren praktischen Produkten. Wähle aus einer großen Auswahl an Kissen, Decken und weiteren Artikeln, um deine Reise so bequem wie möglich zu gestalten. Ob für den Flug, den Zug oder das Auto, bei uns findest du das richtige Produkt. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Reparatur",
-                        "text": "Sei immer auf alle Eventualitäten vorbereitet mit unseren <a href=\"/kategorie/reparatur/\" title=\"Reparatur\">Reparatur</a>-Artikeln. Wähle aus einer großen Auswahl an Produkten, um deine Ausrüstung schnell und einfach reparieren zu können. Ob für den Zeltstoff oder das Zeltzubehör, bei uns findest du das richtige Reparatur-Set. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Feuerzeuge und Zubehör",
-                        "text": "Entzünde Feuer im Handumdrehen mit unseren Feuerzeugen und Zubehör. Wähle aus einer großen Auswahl an Produkten, um das richtige Feuerzeug für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für den Notfall, bei uns findest du das passende Feuerzeug. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Sicherheit unterwegs",
-                        "text": "Bleibe immer sicher unterwegs mit unseren Produkten für die Sicherheit auf Reisen. Wähle aus einer großen Auswahl an Taschenlampen, Signalpfeifen und weiteren Artikeln, um dich auf jede Eventualität vorzubereiten. Ob für den Wald oder den Stadtpark, bei uns findest du das richtige Produkt für deine Bedürfnisse. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    },
-                    {
-                        "title": "Heizungen und Taschenöfen",
-                        "text": "Bleibe auch unterwegs warm mit unseren <a href=\"/kategorie/heizungen-und-taschenoefen/\" title=\"Heizungen und Taschenöfen\">Heizungen und Taschenöfen</a>. Wähle aus einer großen Auswahl an Produkten, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für kalte Wintertage, bei uns findest du die richtigen Heizungen und Taschenöfen. Bestelle jetzt bei outdoor-reiseartikel.de."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Online Shop Outdoor Ausrüstung und Zubehör",
-            "metaDescription": "Outdoor Ausrüstung bietet die beste Ausrüstung für Outdoor Survival und Abenteuer. Mit den Produkten der besten Marken bist du auf alles vorbereitet.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Alle Marken für Outdoor Ausrüstung im Überblick",
-            "metaDescription": "Hier findest du alle Hersteller und Marken für Outdoor Ausrüstung im Überblick. Top Marken wie Fjällräven, Therm-A-Rest, Sea to Summit und viele mehr.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT kaufen | Outdoor-Reiseartikel.de",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen in unserem Online Shop. Best-Preis-Garantie. Produkte auf Lager. Schneller Versand.",
-        "defaultRobots": "index, follow",
-        "products": []
-    },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
-        "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "outdoor ausrüstung",
-                "slug": "outdoor ausrüstung",
-                "name": "outdoor ausrüstung",
-                "seo": {
-                    "title": "Outdoor Ausrüstung günstig kaufen",
-                    "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "outdoor-reiseartikel.de",
+  "hostname": "https://www.outdoor-reiseartikel.de",
+  "email": "outdoor-reiseartikel.de@surrealnetworks.io",
+  "organization": "outdoor-reiseartikel.de/",
+  "logoText": "outdoor-reiseartikel.de",
+  "title": "Outdoor Reiseartikel Shop",
+  "subline": "Dein Shop für die Reiseartikel im Outdoor-Bereich",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "5637880852",
+    "5637412330",
+    "5637942026"
+  ],
+  "winnerProducts": [
+    "5637871373",
+    "5637896170",
+    "5637880842"
+  ],
+  "featuredCategories": [
+    "Handtücher und Zubehör",
+    "Reisekomfort",
+    "Reisespiele",
+    "Reparatur",
+    "Fitness Zubehör",
+    "Büro unterwegs"
+  ],
+  "socialMediaAccounts": [
+    {
+      "name": "Twitter",
+      "link": "https://www.twitter.com/outdoor-reiseartikel.de",
+      "iconClass": "fab fa-twitter",
+      "published": false
+    }
+  ],
+  "imageQuality": 90,
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Outdoor Ausrüstung",
+    "featureText": "<p class=\"mb-4\">Online Shop über Produkte für das nächste Outdoor Abenteuer.</p><p>Das beste Outdoor-Equipment und Zubehör für Damen und Herren.</p><p>Willkommen bei Outdoor-Reiseartikel.de, deiner Quelle für Informationen über Outdoor-Ausrüstung für deine Reise. Unser Expertenteam bietet die neuesten Nachrichten und Ratschläge zu allen Themen von Wandern und Camping. Egal, ob du ein Anfänger oder ein erfahrener Profi bist, wir haben die tollsten Artikel, die du brauchst, um das Beste aus deinen Outdoor-Abenteuern zu machen. Schau dir unbedingt unsere Produkte an, um die beste Ausrüstung für deine Bedürfnisse zu finden. Und vergiss nicht, unsere Seite zu bookmarken - es gibt täglich neue Inhalte!</p>",
+    "index": {
+      "title": "Outdoor-Reiseartikel.de",
+      "metaDescription": "Outdoor-Reiseartikel.de ist deine Quelle für hochwertige Outdoor-Ausrüstung. Wir führen eine große Auswahl an Produkten, die deinen Bedürfnissen entsprechen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Outdoor-Reiseartikel.de",
+            "text": "Herzlich willkommen auf Outdoor-Reiseartikel.de, Ihrem Online-Shop für hochwertige Outdoor-Ausrüstung. Wir bieten Ihnen eine große Auswahl an Produkten für Ihre nächste Outdoor-Reise, egal ob Sie wandern, klettern oder campen möchten. Unsere Produkte sind sorgfältig ausgewählt, um Ihnen eine hohe Qualität und Langlebigkeit zu garantieren. Wir haben für jeden Bedarf die passende Ausrüstung, von Reisespielen über Bürobedarf unterwegs bis hin zu Handtüchern und Zubehör. Mit unseren Boxen, Tonnen und Behältern können Sie Ihre Ausrüstung sicher verstauen und transportieren. Für mehr Sicherheit unterwegs bieten wir Ihnen auch Feuerzeuge und Sicherheitsausrüstung. Wir verstehen, dass bequemer und angenehmer Reisekomfort für Sie wichtig ist, daher haben wir auch eine Auswahl an Heizungen und Taschenöfen sowie Fitness-Zubehör für Sie bereitgestellt. Wir hoffen, dass Sie bei uns alles finden, was Sie für Ihre nächste Outdoor-Reise brauchen. Schauen Sie sich in Ruhe um und lassen Sie sich inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+          },
+          {
+            "title": "Reisespiele",
+            "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/reisespiele/\" title=\"Reisespiele\">Reisespiele</a>n für deinen nächsten Urlaub. Ob für lange Flugreisen oder einfach für unterwegs, bei uns findest du garantiert das richtige Spiel. Wähle aus einer großen Auswahl an Spielen für Kinder und Erwachsene, um dir die Zeit zu vertreiben. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Büro unterwegs",
+            "text": "Arbeite auch unterwegs produktiv mit unseren Büro-Artikeln für unterwegs. Ob für den nächsten Geschäftstermin oder einfach für den Urlaub, bei uns findest du alles, was du brauchst. Von Laptops über Drucker bis hin zu Schreibutensilien, wir haben alles im Angebot. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Handtücher und Zubehör",
+            "text": "Bleibe auch unterwegs immer sauber und trocken mit unseren Handtüchern und Zubehör. Wähle aus einer großen Auswahl an Größen und Farben, um das perfekte Handtuch für deine Bedürfnisse zu finden. Ob für den Strand oder für den Pool, bei uns findest du das richtige Handtuch. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Boxen, Tonnen, Behälter",
+            "text": "Organisiere deine Ausrüstung mit unseren Boxen, Tonnen und Behältern. Wähle aus einer großen Auswahl an Größen und Farben, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Transport oder die Aufbewahrung, bei uns findest du die richtigen Behälter. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Schlüsselanhänger",
+            "text": "Halte deine Schlüssel immer griffbereit mit unseren stylischen <a href=\"/kategorie/schluesselanhaenger/\" title=\"Schlüsselanhänger\">Schlüsselanhänger</a>n. Wähle aus einer großen Auswahl an Designs und Materialien, um den perfekten Anhänger für dich zu finden. Ob für den Alltag oder als Geschenk, bei uns findest du den passenden Schlüsselanhänger. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Fitness Zubehör",
+            "text": "Bleibe auch unterwegs fit mit unserem Fitness-Zubehör. Wähle aus einer großen Auswahl an Produkten, um das perfekte Set für deine Bedürfnisse zu finden. Ob für das Training im Freien oder im Hotel, bei uns findest du das richtige Zubehör. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Reisekomfort",
+            "text": "Steigere deinen <a href=\"/kategorie/reisekomfort/\" title=\"Reisekomfort\">Reisekomfort</a> mit unseren praktischen Produkten. Wähle aus einer großen Auswahl an Kissen, Decken und weiteren Artikeln, um deine Reise so bequem wie möglich zu gestalten. Ob für den Flug, den Zug oder das Auto, bei uns findest du das richtige Produkt. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Reparatur",
+            "text": "Sei immer auf alle Eventualitäten vorbereitet mit unseren <a href=\"/kategorie/reparatur/\" title=\"Reparatur\">Reparatur</a>-Artikeln. Wähle aus einer großen Auswahl an Produkten, um deine Ausrüstung schnell und einfach reparieren zu können. Ob für den Zeltstoff oder das Zeltzubehör, bei uns findest du das richtige Reparatur-Set. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Feuerzeuge und Zubehör",
+            "text": "Entzünde Feuer im Handumdrehen mit unseren Feuerzeugen und Zubehör. Wähle aus einer großen Auswahl an Produkten, um das richtige Feuerzeug für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für den Notfall, bei uns findest du das passende Feuerzeug. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Sicherheit unterwegs",
+            "text": "Bleibe immer sicher unterwegs mit unseren Produkten für die Sicherheit auf Reisen. Wähle aus einer großen Auswahl an Taschenlampen, Signalpfeifen und weiteren Artikeln, um dich auf jede Eventualität vorzubereiten. Ob für den Wald oder den Stadtpark, bei uns findest du das richtige Produkt für deine Bedürfnisse. Bestelle jetzt bei outdoor-reiseartikel.de."
+          },
+          {
+            "title": "Heizungen und Taschenöfen",
+            "text": "Bleibe auch unterwegs warm mit unseren <a href=\"/kategorie/heizungen-und-taschenoefen/\" title=\"Heizungen und Taschenöfen\">Heizungen und Taschenöfen</a>. Wähle aus einer großen Auswahl an Produkten, um die perfekte Lösung für deine Bedürfnisse zu finden. Ob für den Campingplatz oder für kalte Wintertage, bei uns findest du die richtigen Heizungen und Taschenöfen. Bestelle jetzt bei outdoor-reiseartikel.de."
+          }
         ]
+      }
     },
-    "brandSeo": {
-        "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
-        "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
-        "defaultRobots": "index, follow",
-        "brands": [
+    "shop": {
+      "title": "Online Shop Outdoor Ausrüstung und Zubehör",
+      "metaDescription": "Outdoor Ausrüstung bietet die beste Ausrüstung für Outdoor Survival und Abenteuer. Mit den Produkten der besten Marken bist du auf alles vorbereitet.",
+      "robots": "index, follow"
+    },
+    "hersteller": {
+      "title": "Alle Marken für Outdoor Ausrüstung im Überblick",
+      "metaDescription": "Hier findest du alle Hersteller und Marken für Outdoor Ausrüstung im Überblick. Top Marken wie Fjällräven, Therm-A-Rest, Sea to Summit und viele mehr.",
+      "robots": "index, follow"
+    }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT kaufen | Outdoor-Reiseartikel.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen in unserem Online Shop. Best-Preis-Garantie. Produkte auf Lager. Schneller Versand.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637871373",
+        "seo": {
+          "texts": [
             {
-                "key": "fjällräven",
-                "name": "fjällräven",
-                "seo": {
-                    "title": "Produkte von Fjällräven günstig kaufen",
-                    "metaDescription": "Alle Produkte von dem weltweit führenden Hersteller Fjällräven. Erlebe die Natur und sei bei jedem Abenteuer ein Teil von Fjällräven.",
-                    "robots": "index, follow"
-                }
-            },
-            {
-                "key": "therm-a-rest",
-                "name": "therm-a-rest",
-                "seo": {
-                    "title": "Produkte von Therm-A-Rest günstig kaufen",
-                    "metaDescription": "Qualitativ hochwertige Produkte von Therm-A-Rest überzeugen die Kunden stets. Der amerikanische Hersteller verhilft dir zu einem spannenden Abenteuer.",
-                    "robots": "index, follow"
-                }
+              "title": "FRILUFTS MICROFIBRE TOWEL W:O:A Reisehandtuch - Das ideale Handtuch für unterwegs",
+              "text": "<p class=\"justify\">Das FRILUFTS MICROFIBRE TOWEL W:O:A Reisehandtuch ist der perfekte Begleiter für jeden Reisenden. Die innovative Technologie und das stilvolle Design in grün/schwarz machen es zu einem unverzichtbaren Accessoire für Outdoor-Aktivitäten, bei denen ein leichtes, schnell trocknendes und kompaktes Handtuch gefragt ist.</p><p class=\"justify\">Dieses Reisehandtuch ist für Aktivitäten wie Camping, Wandern, Fitness und vieles mehr bestens geeignet. Das Mikrofaser-Material sorgt für eine hervorragende Saugfähigkeit, sodass es sowohl für die Körperpflege als auch für den Einsatz beim Sport verwendet werden kann. Die Mikrofaser ist hypoallergen und trocknet bis zu viermal schneller als herkömmliche Handtücher, was es ideal für den Einsatz unterwegs macht.</p><p class=\"justify\">Das FRILUFTS MICROFIBRE TOWEL W:O:A Reisehandtuch punktet mit seiner besonderen Tragefähigkeit und seinem geringen Gewicht. Es ist leicht und nimmt wenig Platz im Gepäck ein, was besonders praktisch für Reisen zu sein scheint. Die grün/schwarze Farbkombination verleiht dem Handtuch ein modernes und robustes Aussehen. Mit einer Overall-Bewertung von 4 Sternen bei über 281 Rezensionen zählt das Handtuch zu den absoluten Kundenfavoriten.</p><p class=\"justify\">Um das Handtuch komfortabel und platzsparend zu verstauen, ist es mit einer praktischen Trageschlaufe ausgestattet, die es ermöglicht, das Reisehandtuch aufzuhängen und schneller trocknen zu lassen. Der renommierte Hersteller FRILUFTS ist bekannt für seine hochwertigen und langlebigen Outdoor-Ausrüstungen und setzt auch bei diesem Produkt auf beste Verarbeitung und durchdachte Details.</p><p class=\"justify\">Das FRILUFTS MICROFIBRE TOWEL W:O:A Reisehandtuch repräsentiert die vielfältigen Kategorien Start, Ausrüstung, Reiseartikel, Handtücher und Zubehör sowie MICROFIBRE TOWEL W:O:A. Für alle, die auf der Suche nach dem idealen Handtuch für ihre Abenteuer sind, ist dieses Produkt eine ausgezeichnete Wahl. Es überzeugt durch seine Mikrofaser-Technologie, das ansprechende Design und seine hohe Funktionalität.</p>"
             }
-        ]
-    },
-    "checklist": [
-        "Hochwertig",
-        "Beständig",
-        "Preis-Leistungsverhältnis",
-        "Zertifiziert",
-        "Komfort",
-        "Garantie"
-    ],
-    "navigationLinks": [
-        {
-            "title": "Startseite",
-            "linkTo": "/",
-            "linkTitle": "Outdoor-Reiseartikel.de",
-            "publish": true
-        },
-        {
-            "title": "Online Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Shop für Outdoor Ausrüstung und Zubehör",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "publish": true,
-            "linkTo": "/marken/",
-            "linkTitle": "Outdoor-Reiseartikel.de von führenden Marken"
-        },
-        {
-            "title": "Kontakt",
-            "linkTitle": "Kontakt aufnehmen",
-            "linkTo": "#kontakt",
-            "publish": false
+          ]
         }
+      },
+      {
+        "sku": "5637880842",
+        "seo": {
+          "texts": [
+            {
+              "title": "Basic Nature DOSENSAFE Wertsachenaufbewahrung - Sichere Aufbewahrung Ihrer Wertsachen",
+              "text": "<p class=\"justify\">Die Basic Nature DOSENSAFE Wertsachenaufbewahrung ist die ideale Lösung, um Ihre Wertsachen sicher zu verwahren. Mit dieser unscheinbaren und praktischen Aufbewahrungslösung schützen Sie Ihre Wertsachen vor neugierigen Blicken und möglichen Diebstählen. Die DOSENSAFE Wertsachenaufbewahrung der Marke Basic Nature ist in einer neutralen Farbe gehalten und fügt sich somit nahtlos in jedes Umfeld ein.</p><p class=\"justify\">Die Kategorien dieses Produkts sind Start, Ausrüstung, Reiseartikel, Sicherheit unterwegs und DOSENSAFE. Wenn Sie häufig unterwegs sind und Ihre Wertsachen immer griffbereit haben möchten, bietet dieses Accessoire die perfekte Lösung. Die Basic Nature DOSENSAFE Wertsachenaufbewahrung eignet sich hervorragend für Reisen, Camping oder einfach als zusätzliche Sicherheit in Ihrem Zuhause.</p><p class=\"justify\">Mit einem Preis von 22,95€ und einem 5-Sterne-Bewertungsdurchschnitt bei 441 Bewertungen ist die Basic Nature DOSENSAFE Wertsachenaufbewahrung bei den Kunden sehr beliebt. Die Sicherheit und Qualität dieses Produkts überzeugen und garantieren Ihnen eine praktische und zuverlässige Aufbewahrungslösung, die den Bedürfnissen der heutigen Zeit gerecht wird.</p><p class=\"justify\">Die Basic Nature DOSENSAFE Wertsachenaufbewahrung ist ein vielseitiges Produkt, das Ihnen hilft, Ihre Wertsachen sicher zu transportieren und aufzubewahren. Tausende von zufriedenen Kunden profitieren bereits von dieser Aufbewahrungslösung und genießen die Vorzüge eines sicheren, diskreten und unauffälligen Verstecks für ihre Wertsachen. Lassen auch Sie sich von der Qualität und Effizienz dieses innovativen Produkts überzeugen und investieren Sie noch heute in Ihren persönlichen DOSENSAFE von Basic Nature.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637896170",
+        "seo": {
+          "texts": [
+            {
+              "title": "BLACKROLL MAT GYMBAG GT Yogamatte in Petrol",
+              "text": "<p class=\"justify\">Die BLACKROLL MAT GYMBAG GT Yogamatte vereint Stil und Funktionalität in einem hochwertigen Produkt, das sowohl für Yoga-Enthusiasten als auch für Fitness-Begeisterte geeignet ist. Die Marke BLACKROLL ist bekannt für ihre hervorragenden Fitness-Produkte, und die Yogamatte ist keine Ausnahme.</p><p class=\"justify\">Die Yogamatte in der Farbe Petrol bringt einige interessante Eigenschaften und Vorteile mit sich. Sie bietet hervorragenden Grip und Stabilität während des Trainings. Die Oberfläche dieser rutschfesten Matte ist so konzipiert, dass sie sowohl bei Trockenheit als auch bei Nässe optimalen Halt bietet. Dadurch kann man sich während des Trainings besser und sicherer auf seine Übungen konzentrieren.</p><p class=\"justify\">Die MAT GYMBAG GT ist in verschiedenen Kategorien zu finden, wie z. B. \"Ausrüstung\", \"Reiseartikel\" und \"Fitness Zubehör\". Ihre Zuordnung zu diesen Kategorien zeigt, dass sie ein vielseitiges Produkt ist, das sowohl für den täglichen Gebrauch in Fitness- und Yogastudios als auch für leichte Reisen geeignet ist. Ihre strapazierfähige Materialoberfläche macht sie langlebig und widerstandsfähig gegen Abrieb, was bedeutet, dass sie längere Zeit ohne sichtbare Verschleißerscheinungen verwendet werden kann.</p><p class=\"justify\">Ein weiteres nützliches Merkmal dieser Yogamatte ist der GYMBAG inbegriffen, was den Transport noch einfacher und bequemer macht. Sicher und platzsparend verpackt, können Sie Ihre Matte problemlos überall hin mitnehmen - sei es ins Fitnessstudio, ins Yogastudio oder auf Reisen.</p><p class=\"justify\">Die BLACKROLL MAT GYMBAG GT Yogamatte hat bereits viele zufriedene Kunden, wie die 117 Bewertungen und eine durchschnittliche Bewertung von 4 von 5 Sternen belegen. Dies alles zeigt, dass diese Yogamatte von BLACKROLL ein ausgezeichnetes Produkt ist, das in Sachen Qualität, Leistung und Design eine gute Investition darstellt.</p>"
+            }
+          ]
+        }
+      }
     ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Outdoor-Reiseartikel.de",
+    "defaultMetaDescription": "Outdoor Ausrüstung, Outdoor Zubehör und Testsieger aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Günstig online kaufen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "outdoor ausrüstung",
+        "slug": "outdoor ausrüstung",
+        "name": "outdoor ausrüstung",
+        "seo": {
+          "title": "Outdoor Ausrüstung günstig kaufen",
+          "metaDescription": "Outdoor-Ausrüstung für dein nächstes Outdoor-Abenteuer. Stöbere in unserer Auswahl an Outdoor-Ausrüstung, Reisehandtücher, Zubehör und vieles mehr.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Outdoor-Reiseartikel von $HERSTELLER",
+    "defaultMetaDescription": "Bei uns findest du die heißbegehresten Produkte des Herstellers $HERSTELLER. Spitzen Preise und optimale Qualität. Heute bestellen und schnell geliefert bekommen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "fjällräven",
+        "name": "fjällräven",
+        "seo": {
+          "title": "Produkte von Fjällräven günstig kaufen",
+          "metaDescription": "Alle Produkte von dem weltweit führenden Hersteller Fjällräven. Erlebe die Natur und sei bei jedem Abenteuer ein Teil von Fjällräven.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "key": "therm-a-rest",
+        "name": "therm-a-rest",
+        "seo": {
+          "title": "Produkte von Therm-A-Rest günstig kaufen",
+          "metaDescription": "Qualitativ hochwertige Produkte von Therm-A-Rest überzeugen die Kunden stets. Der amerikanische Hersteller verhilft dir zu einem spannenden Abenteuer.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "checklist": [
+    "Hochwertig",
+    "Beständig",
+    "Preis-Leistungsverhältnis",
+    "Zertifiziert",
+    "Komfort",
+    "Garantie"
+  ],
+  "navigationLinks": [
+    {
+      "title": "Startseite",
+      "linkTo": "/",
+      "linkTitle": "Outdoor-Reiseartikel.de",
+      "publish": true
+    },
+    {
+      "title": "Online Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Shop für Outdoor Ausrüstung und Zubehör",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "publish": true,
+      "linkTo": "/marken/",
+      "linkTitle": "Outdoor-Reiseartikel.de von führenden Marken"
+    },
+    {
+      "title": "Kontakt",
+      "linkTitle": "Kontakt aufnehmen",
+      "linkTo": "#kontakt",
+      "publish": false
+    }
+  ],
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
